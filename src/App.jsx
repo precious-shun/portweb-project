@@ -1,6 +1,6 @@
 import Nav from "./components/Nav";
-import "./index.css";
 import Hero from "./components/Hero";
+import "./index.css";
 
 function App() {
   return (
